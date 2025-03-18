@@ -14,6 +14,8 @@ Bem-vindo ao repositório de estudos sobre Ciência da Computação, modelagem m
 - **Problema da Mochila (Knapsack Problem):** Implementações de algoritmos gananciosos, força bruta e programação dinâmica.
 - **Problemas de Grafos:** Soluções para buscas (DFS, BFS) e algoritmos de caminhos mínimos como Dijkstra.
 - **Árvores de Decisão:** Representações de problemas sequenciais e técnicas de otimização.
+### **Análise Exploratória de Dados (EDA)**
+- [**ETL e EDA o _dataset_ sobre Montanhas-Russas**](https://github.com/SampMark/Computational-Thinking/blob/main/Exploratory_Data_Analysis_CoasterDB.ipynb): processamento e limpeza do _dataset_ `coaster_db.csv` para Análise Exploratória de Dados (EDA).
 
 ### **Modelagem Estocástica**
 - **Simulações Aleatórias:** Random Walks e outros processos estocásticos.
